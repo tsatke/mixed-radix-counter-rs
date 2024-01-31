@@ -2,6 +2,10 @@
 name = "mixed_radix_counter"
 version = "0.1.0"
 edition = "2021"
+authors = ["Tim Satke <tsatke@gmail.com>"]
+description = "A no_std crate for counting in a mixed radix system."
+repository = "https://github.com/tsatke/mixed_radix_counter"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

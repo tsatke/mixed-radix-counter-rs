@@ -17,3 +17,9 @@ assert_eq!(*mrc, [0, 0, 0, 0, 0]);
 mrc.add(69_413_798); // or call `mrc.increment()` in a loop 69_413_798 times, but beware, that's a lot slower
 assert_eq!(*mrc, [2, 73, 9, 36, 38]);
 ```
+
+Although numbers are the most obvious element types, this is not restricted to numbers. Look at the generic bounds af you want to see more.
+
+## How to contribute
+
+Feel free to send PRs for anything that comes to your mind.
